@@ -1,0 +1,15 @@
+C:\Repos\MC\WPFAspier\WPFAspire.BusinessInterfaces\bin\Debug\netstandard2.0\WPFAspire.BusinessInterfaces.deps.json
+C:\Repos\MC\WPFAspier\WPFAspire.BusinessInterfaces\bin\Debug\netstandard2.0\WPFAspire.BusinessInterfaces.dll
+C:\Repos\MC\WPFAspier\WPFAspire.BusinessInterfaces\bin\Debug\netstandard2.0\WPFAspire.BusinessInterfaces.pdb
+C:\Repos\MC\WPFAspier\WPFAspire.BusinessInterfaces\obj\Debug\netstandard2.0\WPFAspire.BusinessInterfaces.csprojResolveAssemblyReference.cache
+C:\Repos\MC\WPFAspier\WPFAspire.BusinessInterfaces\obj\Debug\netstandard2.0\WPFAspire.BusinessInterfaces.csproj.CoreCompileInputs.cache
+C:\Repos\MC\WPFAspier\WPFAspire.BusinessInterfaces\obj\Debug\netstandard2.0\WPFAspire.BusinessInterfaces.AssemblyInfoInputs.cache
+C:\Repos\MC\WPFAspier\WPFAspire.BusinessInterfaces\obj\Debug\netstandard2.0\WPFAspire.BusinessInterfaces.AssemblyInfo.cs
+C:\Repos\MC\WPFAspier\WPFAspire.BusinessInterfaces\obj\Debug\netstandard2.0\WPFAspire.BusinessInterfaces.dll
+C:\Repos\MC\WPFAspier\WPFAspire.BusinessInterfaces\obj\Debug\netstandard2.0\WPFAspire.BusinessInterfaces.pdb
+C:\Repos\MC\WPFAspier\WPFAspire.BusinessInterfaces\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+C:\Repos\MC\WPFAspier\WPFAspire.BusinessInterfaces\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Repos\MC\WPFAspier\WPFAspire.BusinessInterfaces\bin\Debug\netstandard2.0\System.Security.dll
+C:\Repos\MC\WPFAspier\WPFAspire.BusinessInterfaces\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.xml
+C:\Repos\MC\WPFAspier\WPFAspire.BusinessInterfaces\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Repos\MC\WPFAspier\WPFAspire.BusinessInterfaces\bin\Debug\netstandard2.0\System.Security.xml

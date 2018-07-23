@@ -1,0 +1,8 @@
+-p C:\Program Files\dotnet\dotnet.exe
+-pidFile C:\Repos\MC\WPFAspier\WPFAspire.WebApi\bin\IISSupport\pidfile.txt
+-wd C:\Repos\MC\WPFAspier\WPFAspire.WebApi
+-a exec "C:\Repos\MC\WPFAspier\WPFAspire.WebApi\bin\Debug\netcoreapp2.0\WPFAspire.WebApi.dll"
+-pipe 0a0b157e-d6cc-4ec7-a35c-b97695becaee
+-pr WPFAspire.WebApi
+-owningPid 10212
+-env ASPNETCORE_CONTENTROOT=C:\Repos\MC\WPFAspier\WPFAspire.WebApi|ASPNETCORE_HOSTINGSTARTUPASSEMBLIES=Microsoft.AspNetCore.ApplicationInsights.HostingStartup|ASPNETCORE_ENVIRONMENT=Development|COMPLUS_ForceENC=1|

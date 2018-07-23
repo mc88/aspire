@@ -1,0 +1,9 @@
+C:\Repos\MC\WPFAspier\WPFAspire.Database\bin\Debug\netstandard2.0\WPFAspire.Database.deps.json
+C:\Repos\MC\WPFAspier\WPFAspire.Database\bin\Debug\netstandard2.0\WPFAspire.Database.dll
+C:\Repos\MC\WPFAspier\WPFAspire.Database\obj\Debug\netstandard2.0\WPFAspire.Database.csprojResolveAssemblyReference.cache
+C:\Repos\MC\WPFAspier\WPFAspire.Database\obj\Debug\netstandard2.0\WPFAspire.Database.csproj.CoreCompileInputs.cache
+C:\Repos\MC\WPFAspier\WPFAspire.Database\obj\Debug\netstandard2.0\WPFAspire.Database.AssemblyInfoInputs.cache
+C:\Repos\MC\WPFAspier\WPFAspire.Database\obj\Debug\netstandard2.0\WPFAspire.Database.AssemblyInfo.cs
+C:\Repos\MC\WPFAspier\WPFAspire.Database\bin\Debug\netstandard2.0\WPFAspire.Database.pdb
+C:\Repos\MC\WPFAspier\WPFAspire.Database\obj\Debug\netstandard2.0\WPFAspire.Database.dll
+C:\Repos\MC\WPFAspier\WPFAspire.Database\obj\Debug\netstandard2.0\WPFAspire.Database.pdb

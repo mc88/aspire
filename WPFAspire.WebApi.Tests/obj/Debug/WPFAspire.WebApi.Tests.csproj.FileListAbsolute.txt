@@ -1,0 +1,13 @@
+C:\Repos\MC\WPFAspier\WPFAspire.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Repos\MC\WPFAspier\WPFAspire.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Repos\MC\WPFAspier\WPFAspire.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Repos\MC\WPFAspier\WPFAspire.WebApi.Tests\bin\Debug\WPFAspire.WebApi.Tests.dll
+C:\Repos\MC\WPFAspier\WPFAspire.WebApi.Tests\bin\Debug\WPFAspire.WebApi.Tests.pdb
+C:\Repos\MC\WPFAspier\WPFAspire.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Repos\MC\WPFAspier\WPFAspire.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Repos\MC\WPFAspier\WPFAspire.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Repos\MC\WPFAspier\WPFAspire.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Repos\MC\WPFAspier\WPFAspire.WebApi.Tests\obj\Debug\WPFAspire.WebApi.Tests.dll
+C:\Repos\MC\WPFAspier\WPFAspire.WebApi.Tests\obj\Debug\WPFAspire.WebApi.Tests.pdb
+C:\Repos\MC\WPFAspier\WPFAspire.WebApi.Tests\obj\Debug\WPFAspire.WebApi.Tests.csprojResolveAssemblyReference.cache
+C:\Repos\MC\WPFAspier\WPFAspire.WebApi.Tests\obj\Debug\WPFAspire.WebApi.Tests.csproj.CoreCompileInputs.cache
